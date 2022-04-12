@@ -17,7 +17,6 @@ Plusieurs versions progressives du dépôt pour accompagner le cours.
 
 ### Projet réalisé par:
 *   Blaise Antonio IRADUKUNDA
-*   Alpha Barry
 
 ---
 
